@@ -1,1 +1,1 @@
-# cpp_codes
+# this repository contains problem solving codes in CPP
